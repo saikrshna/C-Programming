@@ -22,7 +22,7 @@
     result2= sqrt(s*(s-a)*(s-d)*(s-c));
     printf("The Area of Triangle is %f", result2);
 }else{
- printf("!!!!!Invalid Insertion!!!!!");
+ printf("Invalid Insertion");
 }
     return 0;
  }
